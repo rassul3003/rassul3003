@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-- 🎓 M.S in Computer Science and Data Science
+- 🎓 M.S in Computer and Data Science
 
 - 🌱 Constantly learning to write better code
 
