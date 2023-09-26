@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-- 🎓 M.S in Computer and Data Science
+- 🎓 M.S in MTech and Data Science Fellow
 
 - 🌱 Constantly learning to write better code
 
