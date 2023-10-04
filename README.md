@@ -5,8 +5,8 @@
 
 - 🌱 Constantly learning to write better code
 
-- 🔭 Curious abouth everything Math and Statistics related
+- 🔭 Curious about everything related to Math and Statistics 
 
-- ⚽ Love soccer, fan of F.C. Liverpool
+- ⚽ Love soccer, and F.C. Liverpool fan
 
 - 🧠 Interested in Psychology
