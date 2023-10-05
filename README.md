@@ -9,4 +9,8 @@
 
 - ⚽ Love soccer, and F.C. Liverpool fan
 
+- 🏃 Enhoy running, participated in multiple half-marathons
+
 - 🧠 Interested in Psychology
+  
+
