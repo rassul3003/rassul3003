@@ -1,11 +1,11 @@
 # Hi there 👋
 
 
-- 🎓 M.S in MTech and Data Science Fellow
+- 🎓 M.S in CS and Management in IT
 
 - 🌱 Constantly learning to write better code
 
-- 🔭 Curious about everything related to Math and Statistics 
+- 🔭 Curious about everything about SDLC
 
 - ⚽ Love soccer, and F.C. Liverpool fan
 
