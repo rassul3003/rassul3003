@@ -5,7 +5,7 @@
 
 - 🌱 Constantly learning to write better code
 
-- 🔭 Curious about everything about SDLC
+- 🔭 Curious about SDLC
 
 - ⚽ Love soccer, and F.C. Liverpool fan
 
